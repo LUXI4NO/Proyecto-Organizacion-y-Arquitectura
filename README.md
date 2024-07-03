@@ -13,13 +13,13 @@
 5. [Bibliografía Consultada](#bibliografía-consultada)
 
 ## Introduccion	 
-En este proyecto, nos adentraremos en la creación de una versión moderna del juego de memoria Simón. Este juego electrónico, que tuvo su auge en los años 80, sigue siendo una herramienta divertida y desafiante para ejercitar la memoria y la concentración.
+En este proyecto, nos embarcamos en la creación de una versión moderna del clásico juego de memoria Simón. Este juego electrónico, popularizado en los años 80, continúa siendo una herramienta divertida y desafiante para ejercitar la memoria y la concentración.
 
-El juego Simón se basa en una estructura sencilla: cuatro botones de colores (rojo, azul, amarillo y verde). Al encender el juego, Simón comienza iluminando uno de los botones al azar. El jugador debe repetir esta secuencia presionando el botón correcto. A medida que el jugador avanza, el juego añade un nuevo color a la secuencia, aumentando la dificultad con cada ronda.
+El juego Simón se fundamenta en una estructura simple: cuatro botones de colores (rojo, azul, amarillo y verde). Al iniciar, Simón genera una secuencia aleatoria iluminando uno de estos botones. El desafío consiste en repetir correctamente la secuencia. Con cada acierto, el juego añade un nuevo color, incrementando así la complejidad en cada ronda.
 
-El objetivo principal del juego es recordar y reproducir secuencias cada vez más largas y complejas de colores. Esta mecánica simple ayuda a mejorar habilidades cognitivas esenciales.
+El objetivo principal del juego es mejorar las habilidades cognitivas al recordar y reproducir secuencias cada vez más extensas y complejas de colores.
 
-En nuestro proyecto, buscamos mejoras que puedan adaptarlo a las preferencias y tecnologías actuales. Esto incluirá el diseño de los circuitos electrónicos, la programación del comportamiento del juego, y la creación de una interfaz de usuario.
+En este proyecto, exploraremos mejoras que adapten el juego a las preferencias y tecnologías actuales. Esto abarcará el diseño de circuitos electrónicos, la programación del comportamiento del juego y la creación de una interfaz de usuario optimizada.
 
 ## Desarrollo	 
 ### Objetivo del Proyecto
