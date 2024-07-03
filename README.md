@@ -1,7 +1,7 @@
 # Laboratorio Arduino 
 
 ## Autores 
-- Alvarez Luciano
+- Alvarez Luciano Ezequiel
 
 ## Tabla de Contenidos
 1. [Introducción](#introducción)
