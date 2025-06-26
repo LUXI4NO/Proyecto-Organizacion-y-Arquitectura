@@ -1,6 +1,6 @@
 # Laboratorio Arduino 
 
-## Autores 
+## Integrantes 
 - Alvarez Luciano Ezequiel
 - Eliana Belen Vazquez
 
