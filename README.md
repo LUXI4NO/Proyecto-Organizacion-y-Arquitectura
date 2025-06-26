@@ -2,6 +2,7 @@
 
 ## Autores 
 - Alvarez Luciano Ezequiel
+- Eliana Belen Vazquez
 
 ## Tabla de Contenidos
 1. [Introducción](#introducción)
